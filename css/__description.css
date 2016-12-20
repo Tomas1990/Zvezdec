@@ -1,0 +1,58 @@
+.description{
+	background: #d6a623;
+	margin-top: 17px;
+}
+
+.description h2{
+	margin: 0;
+	padding-top: 36px;
+	padding-left: 33px;
+	text-transform: uppercase;
+	font: 32.65px "CatorzeSemiBold";
+	color: #231f20;
+}
+
+.description p{
+	padding-top: 36px;
+	padding-left: 32px;
+	margin-bottom: 0;
+	font: 18.24px "CatorzeMedium";
+	color: #231f20;
+}
+
+.description #displayText{
+	padding-top: 36px;
+	padding-left: 35px;
+	font: 14px "FiraSans";
+	color: #231f20;
+	text-decoration: none;
+}
+
+.description .spoiler{
+	padding-top: 9px;
+}
+
+.description .spoiler #displayText:hover{
+	text-decoration: underline;
+}
+
+.description #toggleText p{
+	padding-top: 0;
+	padding-left: 32px;
+	margin-bottom: 0;
+	font: 18.24px "CatorzeMedium";
+	color: #231f20;
+}
+
+.description .social{
+	padding-top: 30px;
+	text-transform: uppercase;
+	padding-left: 32px;
+	font: 24.96px "CatorzeMedium";
+	color: #231f20;
+}
+
+.description a{
+	padding-left: 32px;
+	padding-bottom: 13px;
+}

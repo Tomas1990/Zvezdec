@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "FiraSans";
+    src: url("firasans.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Rodchenko";
+    src: url("rodchenko.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "CatorzeBlack";
+    src: url("Catorze27Style1-Black.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "CatorzeLight";
+    src: url("Catorze27Style1-Light.otf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "CatorzeMedium";
+    src: url("Catorze27Style1-Medium.otf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "CatorzeSemiBold";
+    src: url("Catorze27Style1-SemiBold.otf");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "CatorzeThin";
+    src: url("Catorze27Style1-Thin.otf");
+    font-style: normal;
+    font-weight: normal;
+}

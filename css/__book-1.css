@@ -1,0 +1,121 @@
+.book-1{
+	background: #a42534;
+}
+
+.book-1 .div45px{
+	height: 45px;
+}
+
+.book-1 .book111{
+	margin: 0 auto;
+    box-shadow: rgb(130, 29, 41) 1px 1px,
+    rgb(130, 29, 41) 2px 2px,
+    rgb(131, 29, 41) 3px 3px,
+    rgb(131, 29, 41) 4px 4px,
+    rgb(132, 29, 41) 5px 5px,
+    rgb(132, 29, 41) 6px 6px,
+    rgb(133, 29, 42) 7px 7px,
+    rgb(133, 29, 42) 8px 8px,
+    rgb(134, 29, 42) 9px 9px,
+    rgb(134, 30, 42) 10px 10px,
+    rgb(134, 30, 42) 11px 11px,
+    rgb(135, 30, 42) 12px 12px,
+    rgb(135, 30, 42) 13px 13px,
+    rgb(136, 30, 43) 14px 14px,
+    rgb(136, 30, 43) 15px 15px,
+    rgb(137, 30, 43) 16px 16px,
+    rgb(137, 30, 43) 17px 17px,
+    rgb(138, 30, 43) 18px 18px,
+    rgb(138, 31, 43) 19px 19px,
+    rgb(139, 31, 43) 20px 20px,
+    rgb(139, 31, 44) 21px 21px,
+    rgb(139, 31, 44) 22px 22px,
+    rgb(140, 31, 44) 23px 23px,
+    rgb(140, 31, 44) 24px 24px,
+    rgb(141, 31, 44) 25px 25px,
+    rgb(141, 31, 44) 26px 26px,
+    rgb(142, 31, 44) 27px 27px,
+    rgb(142, 31, 45) 28px 28px,
+    rgb(143, 32, 45) 29px 29px,
+    rgb(143, 32, 45) 30px 30px,
+    rgb(144, 32, 45) 31px 31px,
+    rgb(144, 32, 45) 32px 32px,
+    rgb(144, 32, 45) 33px 33px,
+    rgb(145, 32, 45) 34px 34px,
+    rgb(145, 32, 46) 35px 35px,
+    rgb(146, 32, 46) 36px 36px,
+    rgb(146, 32, 46) 37px 37px,
+    rgb(147, 33, 46) 38px 38px,
+    rgb(147, 33, 46) 39px 39px,
+    rgb(148, 33, 46) 40px 40px,
+    rgb(148, 33, 47) 41px 41px,
+    rgb(149, 33, 47) 42px 42px,
+    rgb(149, 33, 47) 43px 43px,
+    rgb(149, 33, 47) 44px 44px,
+    rgb(150, 33, 47) 45px 45px,
+    rgb(150, 33, 47) 46px 46px,
+    rgb(151, 34, 47) 47px 47px,
+    rgb(151, 34, 48) 48px 48px,
+    rgb(152, 34, 48) 49px 49px,
+    rgb(152, 34, 48) 50px 50px,
+    rgb(153, 34, 48) 51px 51px,
+    rgb(153, 34, 48) 52px 52px,
+    rgb(154, 34, 48) 53px 53px,
+    rgb(154, 34, 48) 54px 54px,
+    rgb(154, 34, 49) 55px 55px,
+    rgb(155, 34, 49) 56px 56px,
+    rgb(155, 35, 49) 57px 57px,
+    rgb(156, 35, 49) 58px 58px,
+    rgb(156, 35, 49) 59px 59px,
+    rgb(157, 35, 49) 60px 60px,
+    rgb(157, 35, 49) 61px 61px,
+    rgb(158, 35, 50) 62px 62px,
+    rgb(158, 35, 50) 63px 63px,
+    rgb(159, 35, 50) 64px 64px,
+    rgb(159, 35, 50) 65px 65px,
+    rgb(159, 36, 50) 66px 66px,
+    rgb(160, 36, 50) 67px 67px,
+    rgb(160, 36, 50) 68px 68px,
+    rgb(161, 36, 51) 69px 69px,
+    rgb(161, 36, 51) 70px 70px,
+    rgb(162, 36, 51) 71px 71px,
+    rgb(162, 36, 51) 72px 72px,
+    rgb(163, 36, 51) 73px 73px,
+    rgb(163, 36, 51) 74px 74px,
+    rgb(164, 37, 52) 75px 75px;
+}
+
+.book-1 .text-1-1{
+	font: 12.09px "FiraSans";
+	color: #fff;
+	padding-top: 27px;
+	margin-bottom: 0;
+}
+
+.book-1 .text-1-2{
+	font: 22px "FiraSans";
+	color: #fff;
+	padding-top: 23px;
+	margin-bottom: 0;
+}
+
+.book-1 .text-1-3{
+	font: 15.45px "FiraSans";
+	color: #fff;
+	padding-top: 14px;
+	margin-bottom: 0;
+}
+
+.book-1 .text-1-4{
+	font: 22.25px "FiraSans";
+	color: #fff;
+	padding-top: 23px;
+	margin-bottom: 0;
+}
+
+.book-1 .text-1-4 span{
+	font-size: 16px;
+	padding-left: 6px;
+	text-decoration: line-through;
+	margin-bottom: 0;
+}

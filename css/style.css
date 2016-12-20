@@ -1,0 +1,56 @@
+@import url(owl.carousel.css);
+@import url(owl.theme.css);
+@import url(../fonts/__font.css);
+@import url(_red-color.css);
+@import url(_uppercase.css);
+@import url(__navbar.css);
+@import url(__description.css);
+@import url(__books-carousel.css);
+@import url(__our-books.css);
+@import url(__book-1.css);
+@import url(__book-2.css);
+@import url(__book-3.css);
+@import url(__book-4.css);
+@import url(__button-buy.css);
+@import url(__carousel-down.css);
+@import url(__navbar-down.css);
+@import url(__carousel-page-2.css);
+@import url(__my-block.css);
+@import url(__media.css);
+
+section.main{
+	background: #ded9d9;
+}
+
+.vam-moget{
+	background: #ded9d9;
+}
+
+.minus-10{
+	z-index: 2;
+	position: absolute;
+	top: 19px;
+	left: 230px;
+}
+
+.hit{
+	z-index: 2;
+	position: absolute;
+	top: 210px;
+	right: 60px;
+}
+
+.novinka{
+	z-index: 2;
+	position: absolute;
+	top: 10px;
+	right: 78px;
+}
+
+.knigi{
+	padding-bottom: 15px;
+}
+
+.collapse {
+  min-height: 1px; 
+}

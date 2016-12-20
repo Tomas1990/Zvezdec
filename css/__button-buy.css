@@ -1,0 +1,18 @@
+.buy{
+	font: 32px "CatorzeMedium";
+	text-transform: uppercase;
+	background: #fff;
+	padding: 18px 73px;
+	margin-top: 48px;
+	display: inline-block;
+	position: relative;
+	left: 7%;
+	margin-bottom: 17px;
+}
+
+.buy:hover{
+	text-decoration: none;
+	background: #809e43;
+	color: #fdfbfb !important;
+	transition: 0.5s;
+}

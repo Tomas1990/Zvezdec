@@ -1,0 +1,11 @@
+#owl-demo-3{
+	margin: 0;
+	padding-top: 15px;
+	padding-left: 19px;
+}
+
+#owl-demo-3 .item a{
+  display: block;
+  height: auto;
+}
+

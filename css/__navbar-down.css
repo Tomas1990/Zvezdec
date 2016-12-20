@@ -1,0 +1,33 @@
+.my-navbar{
+	background: #fff;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	border-radius: 0;
+	margin-bottom: 0;
+}
+
+.my-navbar-left{
+	padding-top: 40px;
+}
+
+.navbar-left a{
+	font: 25px "CatorzeMedium";
+	color: #221f1f;
+	padding-left: 30px !important;
+	padding-right: 30px !important;
+}
+
+.my-navbar-right-down .tel p{
+	font: 20px "CatorzeSemiBold";
+	padding-top: 55px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.my-navbar-right-down{
+	bottom: 10px;
+}
+
+.my-navbar-right-down li.vk{
+	padding-top: 30px;
+}
